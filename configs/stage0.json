@@ -1,0 +1,5 @@
+{
+  "run_game": false,
+  "max_steps": 200,
+  "device": "cpu"
+}
